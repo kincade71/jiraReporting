@@ -2,26 +2,32 @@
 
 ##Dependences
 
+Please have installed
+
 [Composer](https://getcomposer.org/)
+
 [Bower](http://bower.io/)
-[Mamp](http://www.mamp.info/en/) Mac
-[Wamp](http://www.wampserver.com/en/) Win
+
+[Mamp](http://www.mamp.info/en/) (Mac)
+
+[Wamp](http://www.wampserver.com/en/) (Win)
+
  MySQL
 
 ##Getting started
 After cloning this repo.
 
-Open Terminal and cd into the directory.
+Open Terminal and cd into the cloned directory.
 
 Run composer install.
 
-Then run bower install.
+Run bower install.
 
 open / app / config / database.php and add your db connection string here.
 
-Then run php artisan migrate.
+Run php artisan migrate.
 
-Then php artisan serve.
+Run php artisan serve.
 
 Login in with username:test and password:test
 
