@@ -1,0 +1,7 @@
+{
+  "name": "Managment",
+  "dependencies": {
+    "bootstrap": "~3.1.1",
+    "highcharts": "~3.0.7"
+  }
+}
