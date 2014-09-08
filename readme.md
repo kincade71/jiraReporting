@@ -29,7 +29,9 @@ Run php artisan migrate.
 
 Run php artisan serve.
 
-Login in with username:test and password:test
+Message : Laravel development server started on http://localhost:8000
+
+Login in with test/test
 
 ## Laravel PHP Framework
 
